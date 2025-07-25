@@ -8,6 +8,6 @@ public class AreaCirclenput {
         // double areaCircle = 3.14 * radius * radius;
         float radius = scanner.nextFloat();
         float areaCircle = 3.14f * radius * radius;
-        System.out.println("Area of Circle with");
+        System.out.println("Area: " + areaCircle);
     }
 }
